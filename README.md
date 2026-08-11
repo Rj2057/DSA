@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rj2057/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Rj2057/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Rj2057/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rj2057/DSA/tree/master/0283-move-zeroes) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rj2057/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Rj2057/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Rj2057/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Rj2057/DSA/tree/master/0283-move-zeroes) |
