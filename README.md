@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rj2057/DSA/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Rj2057/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Rj2057/DSA/tree/master/0704-binary-search) |
+| [1695-maximum-erasure-value](https://github.com/Rj2057/DSA/tree/master/1695-maximum-erasure-value) |
 ## Math
 |  |
 | ------- |
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rj2057/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Rj2057/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1695-maximum-erasure-value](https://github.com/Rj2057/DSA/tree/master/1695-maximum-erasure-value) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rj2057/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Rj2057/DSA/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rj2057/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1695-maximum-erasure-value](https://github.com/Rj2057/DSA/tree/master/1695-maximum-erasure-value) |
 ## Sorting
 |  |
 | ------- |
