@@ -1,27 +1,13 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        HashSet<Integer> set = new HashSet<>();
+        HashMap<Integer,Integer> map = new HashMap<>();
         for(int i=0;i<nums.length;i++){
-            set.add(nums[i]);
-            
-        }
-        return !(set.size() == nums.length);
-    }
-}
-
-
-/*
-
-This brute force methiod
-{
-        for(int i=0;i<nums.length;i++){
-            for(int j=i+1;j<nums.length;j++){
-                if(nums[i] == nums[j]){
-                    return true;
-                }
+            if(map.containsKey(nums[i])){
+                return true;
             }
+            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+
         }
         return false;
     }
-
-*/
+}
