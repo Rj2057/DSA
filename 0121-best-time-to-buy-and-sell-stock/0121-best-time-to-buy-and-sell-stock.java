@@ -8,6 +8,7 @@ class Solution {
             }
             maxProfit=Math.max(maxProfit,prices[i]-minPrice);
         }
+        System.gc();
         return maxProfit;
     }
 }
